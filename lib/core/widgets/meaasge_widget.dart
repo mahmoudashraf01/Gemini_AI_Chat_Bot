@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
-import 'package:gemini_ai_chat_bot/core/utils/colors.dart';
+import '../utils/colors.dart';
 
 class MessageWidget extends StatelessWidget {
   const MessageWidget({

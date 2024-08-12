@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:gemini_ai_chat_bot/core/utils/colors.dart';
-import 'package:gemini_ai_chat_bot/core/utils/functions/image_format.dart';
-import 'package:gemini_ai_chat_bot/core/utils/text.dart';
-import 'package:gemini_ai_chat_bot/core/widgets/meaasge_widget.dart';
-import 'package:gemini_ai_chat_bot/core/widgets/show_error_message.dart';
+import '../utils/colors.dart';
+import '../utils/functions/image_format.dart';
+import '../utils/text.dart';
+import '../widgets/meaasge_widget.dart';
+import '../widgets/show_error_message.dart';
 import 'package:google_generative_ai/google_generative_ai.dart';
 import 'package:image_picker/image_picker.dart';
 

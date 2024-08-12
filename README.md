@@ -1,4 +1,4 @@
-# gemini_ai_chat_bot
+# Gemini AI
 
 A new Flutter project.
 

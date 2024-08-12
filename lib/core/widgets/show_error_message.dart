@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gemini_ai_chat_bot/core/utils/text.dart';
+import '../utils/text.dart';
 
 class ShowErrorMessage extends StatelessWidget {
   const ShowErrorMessage({
