@@ -1,4 +1,4 @@
-name: gemini_ai
+name: Gemini
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -32,6 +32,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_dotenv: ^5.1.0
+  
   flutter_markdown: ^0.7.3+1
   flutter_svg: ^2.0.10+1
   google_generative_ai: ^0.4.4
@@ -42,10 +43,11 @@ dev_dependencies:
   flutter_lints: ^4.0.0
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: ^0.13.1
 flutter_launcher_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "assets/images/gemni_icon.jpg"  
+  image_path: "assets/images/gemni_icon.jpg"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

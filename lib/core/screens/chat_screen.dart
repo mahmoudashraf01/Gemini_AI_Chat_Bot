@@ -27,7 +27,7 @@ class _ChatPAgeState extends State<ChatPAge> {
         title: SvgPicture.asset(
           'assets/images/Gemini.svg',
           alignment: Alignment.center,
-          width: 130,
+          width: 110,
         ),
         centerTitle: true,
       ),
