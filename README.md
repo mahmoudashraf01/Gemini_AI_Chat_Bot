@@ -1,16 +1,19 @@
 # Gemini AI
 
-A new Flutter project.
+<div>
+  <h3>This a small Gimin app integrated with Google AI Stodio API.</h3>
+</div>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<div>
+  <h3>Add Prompt Texts Without Using Images</h3>
+  <img src="https://github.com/user-attachments/assets/1c821328-817f-4be6-9647-af874efdf3a1" alt="Texts Prompt">
+</div>
+<br><br>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div>
+  <h3>Add Prompt Texts With Using Images</h3>
+  <img src="https://github.com/user-attachments/assets/c33400fe-1820-4ac7-b76c-c7b9014dfdad" alt="Images Prompt">  
+</div>
+<br><br>
